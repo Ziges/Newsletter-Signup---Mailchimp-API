@@ -64,9 +64,3 @@ app.post("/failure", function(req, res) {
 app.listen(process.env.PORT || 3000, function() {
   console.log("server spinned up on port 3000.")
 });
-
-
-// api key mailchimp
-// c2a50754d2060c90369ca35a6d3a8cf6-us8
-
-// list // ID 0f0acb4378
