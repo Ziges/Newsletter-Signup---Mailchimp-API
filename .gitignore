@@ -1,0 +1,6 @@
+##Project-wide
+.DS_Store
+
+##Node modules
+node_modules/ 
+
